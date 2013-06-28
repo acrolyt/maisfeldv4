@@ -1,8 +1,10 @@
 @import 'vars';
 @import 'mixins';
 
-
-@import 'skeleton';
+/*Maisfeld*/
+@import 'screen';
 @import 'base';
-@import 'layout';
 
+/*Skeleton*/
+@import 'layout';
+@import 'skeleton';

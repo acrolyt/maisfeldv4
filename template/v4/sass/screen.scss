@@ -4,3 +4,24 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset";
+
+@import 'vars';
+
+header{
+	background-color: $dark-green;
+}
+
+
+.container {
+	background-color: $green;
+}
+
+footer{
+	background-color: $dark-green;
+	margin-left: auto;
+	margin-right: auto;
+	.footnote{
+		margin: -5px 20px -8px 0px;
+		font-size: 0.7em;
+	}
+}
