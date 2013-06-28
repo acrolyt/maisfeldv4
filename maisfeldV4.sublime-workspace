@@ -1,0 +1,1275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getCountryList  (function)"
+			],
+			[
+				"$conn",
+				"$connectionName"
+			],
+			[
+				"$sear",
+				"$search_sql"
+			],
+			[
+				"contributio",
+				"contribution_id"
+			],
+			[
+				"project_entit",
+				"project_entity_id"
+			],
+			[
+				"COL",
+				"COL_X"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"CO",
+				"CONTRACT_SENT"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"bs",
+				"bs	box-sizing"
+			],
+			[
+				"box-",
+				"box-shadow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3893,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/v4/sass/all.scss",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/v4/sass/_skeleton.scss",
+			"settings":
+			{
+				"buffer_size": 9843,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"aut",
+				"Auto indent"
+			],
+			[
+				"auto",
+				"Auto indent"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"wrap h",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"redindent",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"upercase",
+				"Convert Case: Upper Case"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"tag ",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 126.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/!sublimeText/maisfeldV4/template/v4/sass/_skeleton.scss",
+		"/D/!sublimeText/maisfeldV4/template/v4/sass/all.sass",
+		"/D/!sublimeText/railsapp/readme",
+		"/C/Users/Marco/AppData/Local/Temp/scp35510/var/www/dgvshop/magento/var/report/1001359938598",
+		"/D/!sublimeText/railsapp/affix/readme",
+		"/C/Users/Marco/AppData/Local/Temp/scp26950/etc/apache2/sites-enabled/magepplus",
+		"/C/Users/Marco/AppData/Local/Temp/scp00987/root/.ssh/authorized_keys",
+		"/C/Users/Marco/AppData/Local/Temp/scp59035/root/.ssh/authorized_keys",
+		"/D/xampp/htdocs/ddb/configuration.php",
+		"/D/XAMPP/apache/conf/httpd.conf",
+		"/D/XAMPP/apache/conf/extra/httpd-ssl.conf",
+		"/d/xampp/php/logs/php_error_log",
+		"/d/xampp/apache/logs/access.log",
+		"/d/xampp/apache/logs/error.log",
+		"/D/XAMPP/php/php.ini",
+		"/D/XAMPP/mysql/bin/my.ini",
+		"/D/XAMPP/apache/conf/extra/httpd-xampp.conf",
+		"/D/!sublimeText/DDB/project_contribution_ext.sql",
+		"/D/!sublimeText/DDB/libraries/sourcegarden/entity/projectmembership.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp08926/var/www/dgvshop/magento/app/design/frontend/base/default/layout/pnsofortueberweisung.xml",
+		"/C/Users/Marco/Desktop/Backup/!temp/podcast.xml",
+		"/C/Users/Marco/Desktop/Backup/!temp/podcastHD.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp39963/var/www/dgvshop/magento/.htaccess",
+		"/C/Users/Marco/AppData/Local/Temp/scp18917/var/www/dgvshop/magento/app/etc/modules/Paymentnetwork_Sofortueberweisung.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp56252/var/www/dgvshop/magento/downloader/pearlib/download/pn_sofortueberweisung-2.2.1/modules/Paymentnetwork_Sofortueberweisung.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp16476/var/www/dgvshop/magento/app/design/frontend/default/default/layout/pnsofortueberweisung.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp17161/var/www/dgvshop/magento/app/design/frontend/base/default/template/pnsofortueberweisung/infobox.phtml",
+		"/C/Users/Marco/AppData/Local/Temp/scp07774/var/www/dgvshop/magento/app/design/frontend/default/default/etc/widget.xml",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiondataexport/tmpl/default.php",
+		"/D/!sublimeText/DDB/plugins/workflow/projectworkflow_print.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiondataexport/view.html.php",
+		"/D/!sublimeText/DDB/libraries/sourcegarden/configuration.php",
+		"/D/!sublimeText/DDB/templates/dsdb/sass/all.scss",
+		"/D/!sublimeText/DDB/templates/dsdb/sass/_vars.scss",
+		"/C/Users/Marco/AppData/Local/Temp/scp00352/var/www/dgvshop/magento/app/code/community/Paymentnetwork/Pnsofortueberweisung/etc/config.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp00649/var/www/dgvshop/magento/app/code/community/Paymentnetwork/Pnsofortueberweisung/etc/system.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp02968/var/www/dgvshop/magento/app/etc/modules/Paymentnetwork_Sofortueberweisung.xml",
+		"/D/!sublimeText/DDB/templates/dsdb/css/all.css",
+		"/D/!sublimeText/DDB/configuration.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp41385/var/www/dgvshop/magento/app/code/community/Paymentnetwork/Pnsofortueberweisung/etc/system.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp41095/var/www/dgvshop/magento/app/code/community/Paymentnetwork/Pnsofortueberweisung/etc/config.xml",
+		"/D/!sublimeText/DDB/components/com_dsdb/models/backend_additionalcontactcreate.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/controllers/backend_acexport.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp40080/var/www/dgvshop/magento/app/etc/modules/Paymentnetwork_Sofortueberweisung.xml",
+		"/D/!sublimeText/DDB/components/com_dsdb/models/backend_acexport.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_acexport/tmpl/default.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_acexport/tmpl/default_memberlist.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_acexport/view.html.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/helpers/backend_project.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/helpers/backend_member.php",
+		"/D/!sublimeText/DDB/administrator/components/com_eav/views/editattributegroup/view.html.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/tables/additional_contact.php",
+		"/D/!sublimeText/DDB/language/en-GB/en-GB.com_dsdb.ini",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_additionalcontactcreate/tmpl/default.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_additionalcontactcreate/view.html.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_additionalcontactlist/tmpl/default.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_additionalcontactlist/view.html.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/controllers/backend_additionalcontactcreate.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/tables/system_country.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp20877/var/www/mageplus/mageplus/var/log/system.log",
+		"/C/Users/Marco/AppData/Local/Temp/scp26838/var/log/apache2/error.log",
+		"/C/Users/Marco/Desktop/export_ftw.sql",
+		"/C/Users/Marco/AppData/Local/Temp/scp39257/var/www/mageplus/app/etc/config.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp54130/var/www/mageplus/.htaccess",
+		"/C/Users/Marco/AppData/Local/Temp/scp49532/var/www/mageplus/mageplus/app/code/core/Mage/Core/Model/App.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp30077/var/www/mageplus/mageplus/app/Mage.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp45349/var/www/mageplus/mageplus/app/code/core/Mage/Core/Model/Resource/Resource.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp07628/var/www/mageplus/mageplus/app/code/core/Mage/Core/Model/Resource/Db/Abstract.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp31765/var/www/mageplus/mageplus/app/etc/local.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp28605/var/www/mageplus/export_ftw.sql",
+		"/C/Users/Marco/AppData/Local/Temp/scp31483/var/www/mageplus/mageplus/app/etc/config.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp46707/var/www/mageplus/mageplus/app/etc/local.xml.default",
+		"/C/Users/Marco/AppData/Local/Temp/scp18155/var/www/mageplus/mageplus/var/report/418748700",
+		"/C/Users/Marco/AppData/Local/Temp/scp18912/var/www/mageplus/mageplus/var/report/1959503531",
+		"/C/Users/Marco/AppData/Local/Temp/scp33040/var/www/dgvshop/magento/app/etc/local.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp33762/var/www/dgvshop/magento/app/etc/config.xml",
+		"/D/!sublimeText/DDB/components/com_dsadmin/models/user.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/controller.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_projectstatus/tmpl/default.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_projectstatus/tmpl/default_projectmenu.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_projectcontributions/tmpl/default.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_projectdataupload/tmpl/default.php",
+		"/D/!sublimeText/DDB/libraries/sourcegarden/formfactory/backend_project_formfactory.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/frontend_memberproject/tmpl/default.php",
+		"/D/!sublimeText/DDB/libraries/sourcegarden/entity/imageupload.php",
+		"/D/!sublimeText/DDB/libraries/sourcegarden/entity/projectsubgroup.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp06035/etc/apache2/sites-available/stageshop",
+		"/D/!sublimeText/DDB/components/com_dsadmin/views/user/tmpl/default_form.php",
+		"/D/!sublimeText/DDB/language/en-GB/en-GB.com_dsadmin.ini",
+		"/C/Users/Marco/AppData/Local/Temp/scp41995/var/www/components/com_dsadmin/models/roles.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp47286/var/www/components/com_dsadmin/models/user.php",
+		"/D/!sublimeText/DDB/components/com_dsadmin/models/roles.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp31847/var/www/components/com_dsadmin/models/user.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp46782/var/www/dgvcms2011/drupal/sites/default/files/gestaltentv/podcast.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp46126/var/www/dgvcms2011/drupal/sites/default/files/gestaltentv/podcastHD.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp27093/var/www/dgvcms2011/drupal/sites/default/files/gestaltentv/podcastHD.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp25078/var/www/dgvcms/drupal/sites/default/files/gestaltentv/podcastHD.xml",
+		"/C/Users/Marco/AppData/Local/Temp/scp03999/var/log/apache2/access.log",
+		"/C/Users/Marco/AppData/Local/Temp/scp07222/var/www/dgvshop/magento/app/code/community/Ebizmarts/AbandonedCart/sql/ebizmarts_abandonedcart_setup/mysql4-install-0.1.0.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp58250/var/www/dgvshop/magento/var/log/exception.log",
+		"/C/Users/Marco/AppData/Local/Temp/scp16522/var/log/apache2/error.log",
+		"/C/Users/Marco/AppData/Local/Temp/scp22088/var/www/dgvshop/magento/ajax.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp24199/etc/php5/cgi/php.ini",
+		"/C/Users/Marco/AppData/Local/Temp/scp21953/var/www/stageshop/magento/info.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp04584/var/www/dgvshop/magento/.htaccess",
+		"/C/Users/Marco/AppData/Local/Temp/scp00961/var/www/dgvshop/magento/var/log/system.log",
+		"/C/Users/Marco/AppData/Local/Temp/scp54851/var/www/dgvshop/magento/var/log/exception.log",
+		"/C/Users/Marco/AppData/Local/Temp/scp00669/var/www/dsdatabase_2013_05_21_with_all.sql",
+		"/C/Users/Marco/AppData/Local/Temp/scp06124/var/www/dgvshop/logs/error_dgvshop.log",
+		"/C/Users/Marco/Desktop/dsdatabase_2013_05_21.sql",
+		"/D/!sublimeText/DDB/components/com_dsdb/models/backend_contributiontextexport.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiontextexport/tmpl/default.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/models/backend_memberdata.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/models/backend_contributiondataexport.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/controllers/backend_memberdata.php",
+		"/C/Users/Marco/AppData/Local/Temp/scp54188/var/www/dgvshop/logs/access_dgvshop.log",
+		"/C/Users/Marco/Desktop/Fehler.txt",
+		"/C/Users/Marco/Desktop/index.php.htm",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiontextexport/view.html.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/controllers/backend_contributiontextexport.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/helpers/export.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiondataexport/tmpl/default_projectmenu.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiondataexport/tmpl/default_list.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiondataexport/tmpl/default_upload_form.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiontextexport/tmpl/default_upload_form.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_contributiontextexport/tmpl/default_projectmenu.php",
+		"/D/!sublimeText/DDB/components/com_dsadmin/controller.php",
+		"/D/!sublimeText/DDB/components/com_dsdb/views/backend_memberdata/view.html.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"view.html.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images",
+			"image",
+			"port",
+			"isParticipant",
+			"sofort_ideal",
+			"infobox",
+			"green",
+			"color",
+			"green",
+			"isParticipant",
+			"$attribute",
+			"isPublished",
+			"PUBLISHED",
+			"define(PUBLISHED",
+			"define PUBLISHED",
+			"def PUBLISHED",
+			"define PUBLISHED",
+			"def PUBLISHED",
+			"PUBLISHED",
+			"isPublished",
+			"$class",
+			"isParticipant",
+			"private function isParticipant($attribute,$project_id) {\n		if(!sizeof($attribute->value))return; //wenns keine values gibt\n		foreach($attribute->value as $ek => $project) {\n			if ($project_id == $project->entity_id)return true;\n		}\n		return false;\n	}",
+			"isParticipant",
+			"getActiveProjects",
+			"buildQuery",
+			"PUBLISHED",
+			"buildQuery",
+			"getAllValuesOf",
+			"stdClass",
+			"stdObj",
+			"projects",
+			"getInact",
+			"Backend_MemberHelper",
+			"system_country",
+			"Searching 594 files for \"_connections\"\nsystem_country",
+			"_connections",
+			"23ac5e517591789b05f99e4a0a04403d",
+			"_connections",
+			"_getConnection",
+			"_getWriteAdapter()",
+			"WRITE_MEMBER_BASE_DATA",
+			"name=\"domailout\"",
+			"delete",
+			"$j('#projectform').submit();",
+			"$j('#projectform').submit(); ",
+			"downloadFile",
+			"href=\"/index.php?option=com_dsdb&task=downloadFile&",
+			"onclick=\"$j('#projectform').submit()",
+			"onclick=\"$j('#projectform').submit(); return false;",
+			"Change Member Publishing Data",
+			"Set as Not Complete",
+			"name=\"delete_image",
+			"id=\"deletecontribution\"",
+			"deletecontribution",
+			"save",
+			"delete",
+			"sacl",
+			"mailout",
+			"domailout",
+			"rights",
+			"getRole",
+			"error_log",
+			"assignContributorsToProjects",
+			"createMember",
+			"create",
+			"$imagename",
+			"var_dz",
+			"die;",
+			"where ",
+			"@email.com",
+			"17650",
+			"xkcd",
+			"------------------------------------------------------------",
+			"xkcd",
+			"$existing_user_id",
+			"$user",
+			"nclone.inject(droppable,\"top\");",
+			"exportTxt",
+			"echo $",
+			"only",
+			"die;",
+			"echo",
+			"var_dump",
+			"var_dump($sql",
+			"die;",
+			"jfactory->getUser",
+			"juser load",
+			"$om",
+			"$value",
+			"\"",
+			"txt",
+			"getContributionsByProjectId",
+			"getExportData",
+			"$filename",
+			"$pmid",
+			"getContributions",
+			"$projects",
+			"$project",
+			"$contribution",
+			"$contribution->name",
+			"getContributionsByProjectId",
+			"getExportData",
+			"$filename",
+			"getExportData",
+			"getBrowsableResult",
+			"getContributionsByProjectId",
+			"$value",
+			".txt",
+			"getContributionsByProjectId",
+			"JRoute",
+			"button",
+			"getImagesByProjectId",
+			"getExportData",
+			"$images",
+			"exportdata",
+			"designer",
+			"contributiondataexport",
+			"$fulltext_split",
+			"getFulltextSearchResult",
+			"$contribution_images",
+			"getFulltextSearchResult",
+			"backend_projectfileindex",
+			"resetsearch",
+			"backend_projectfileindex",
+			"href=\"#\"",
+			"submit",
+			"getFulltextSearchResult"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\r\\n------------------------------------------------------------",
+			"'",
+			"href=\"javascript:void(0)\"",
+			"",
+			"oe",
+			"ae",
+			"ue",
+			"/images/",
+			"images",
+			"oe",
+			"ae",
+			"ue",
+			"'.$id.'&o",
+			"projectstatus&action=show&id='.$id.'",
+			"&action=show&id='.$id.'",
+			"btn-cart-xmas",
+			"/skin/frontend/default/gestalten2011/images/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1592,
+								1606
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "template/v4/sass/all.scss",
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.0,
+							"encoding_helper_encoding": "Unknown",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "template/v4/sass/_skeleton.scss",
+					"settings":
+					{
+						"buffer_size": 9843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"membershi",
+				"libraries/sourcegarden/entity/projectmembership.php"
+			],
+			[
+				"infobox.p",
+				"/C/Users/Marco/AppData/Local/Temp/scp17161/var/www/dgvshop/magento/app/design/frontend/base/default/template/pnsofortueberweisung/infobox.phtml"
+			],
+			[
+				"infobox",
+				"/C/Users/Marco/AppData/Local/Temp/scp17161/var/www/dgvshop/magento/app/design/frontend/base/default/template/pnsofortueberweisung/infobox.phtml"
+			],
+			[
+				".scss",
+				"templates/dsdb/sass/all.scss"
+			],
+			[
+				"all.",
+				"templates/dsdb/css/all.css"
+			],
+			[
+				"all.css",
+				"templates/dsdb/css/all.css"
+			],
+			[
+				"modeladditional",
+				"components/com_dsdb/models/backend_additionalcontactcreate.php"
+			],
+			[
+				"ac_export/tmpl/de",
+				"components/com_dsdb/views/backend_acexport/tmpl/default.php"
+			],
+			[
+				"projectform",
+				"libraries/sourcegarden/formfactory/backend_project_formfactory.php"
+			],
+			[
+				"projectstatus/tmpl/",
+				"components/com_dsdb/views/backend_projectstatus/tmpl/default.php"
+			],
+			[
+				"sourcegardenhistory",
+				"libraries/sourcegarden/history/history.php"
+			],
+			[
+				"menu",
+				"modules/mod_dsmenu/mod_dsmenu.php"
+			],
+			[
+				"all.scss",
+				"templates/dsdb/sass/all.scss"
+			],
+			[
+				"backend_project.php",
+				"components/com_dsdb/helpers/backend_project.php"
+			],
+			[
+				"ene",
+				"language/en-GB/en-GB.com_dsdb.ini"
+			],
+			[
+				"additional",
+				"components/com_dsdb/views/backend_additionalcontactcreate/view.html.php"
+			],
+			[
+				"all.s",
+				"templates/dsdb/sass/all.scss"
+			],
+			[
+				"backend_additionalcontactcreate/view.html.php",
+				"components/com_dsdb/views/backend_additionalcontactcreate/view.html.php"
+			],
+			[
+				"contributr",
+				"components/com_dsdb/controllers/backend_contributiondataexport.php"
+			],
+			[
+				"text.",
+				"libraries/sourcegarden/entity/text.php"
+			],
+			[
+				"dsdb",
+				"language/en-GB/en-GB.com_dsdb.ini"
+			],
+			[
+				"checkbox",
+				"libraries/sourcegarden/entity/checkbox.php"
+			],
+			[
+				"en",
+				"language/en-GB/en-GB.com_dsdb.ini"
+			],
+			[
+				"en-en",
+				"language/en-GB/en-GB.com_dsdb.ini"
+			],
+			[
+				"index.php",
+				"templates/dsdb/index.php"
+			],
+			[
+				"components/com_dsdb/helpers/backend_project.php",
+				"components/com_dsdb/helpers/backend_project.php"
+			],
+			[
+				"components/com_dsdb/assets/js/froentend_memberdata.js",
+				"components/com_dsdb/assets/js/froentend_memberdata.js"
+			],
+			[
+				"all",
+				"templates/dsdb/sass/all.scss"
+			],
+			[
+				"backend_projectstatus",
+				"components/com_dsdb/models/backend_projectstatus.php"
+			],
+			[
+				"imageup",
+				"libraries/sourcegarden/entity/imageupload.php"
+			],
+			[
+				"projectstatus",
+				"components/com_dsdb/models/backend_projectstatus.php"
+			],
+			[
+				"views/backend_projects/",
+				"components/com_dsdb/views/backend_projects/view.html.php"
+			],
+			[
+				"contributor",
+				"components/com_dsdb/controllers/backend_contributiondataexport.php"
+			],
+			[
+				"export",
+				"components/com_dsdb/helpers/export.php"
+			],
+			[
+				"all.sc",
+				"templates/dsdb/sass/all.scss"
+			],
+			[
+				"texta",
+				"libraries/sourcegarden/entity/textarea.php"
+			],
+			[
+				"membersearch",
+				"components/com_dsdb/controllers/backend_membersearch.php"
+			],
+			[
+				"default",
+				"templates/dsdb/js/defaultfunctions.js"
+			],
+			[
+				"defaultf",
+				"templates/dsdb/js/defaultfunctions.js"
+			],
+			[
+				"backend_projetstatus",
+				"components/com_dsdb/views/backend_projectstatus/view.html.php"
+			],
+			[
+				"helper/project.php",
+				"components/com_dsdb/helpers/backend_project.php"
+			],
+			[
+				"views/backend_projects/v",
+				"components/com_dsdb/views/backend_projects/view.html.php"
+			],
+			[
+				"xmas.",
+				"skin/frontend/default/gestalten2011/css/xmas.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/!sublimeText/stageshop/stageshop.sublime-project"
+			],
+			[
+				"ste",
+				"/D/!sublimeText/stageshop/stageshop.sublime-project"
+			],
+			[
+				"d",
+				"/D/!sublimeText/stageshop/stageshop.sublime-project"
+			],
+			[
+				"stage",
+				"/D/!sublimeText/stageshop/stageshop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true
+}
