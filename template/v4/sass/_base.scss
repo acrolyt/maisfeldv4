@@ -57,6 +57,8 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
+		font-family: "Lato",sans-serif;
+		/*font-family: 'Fjalla One', sans-serif;*/
 		vertical-align: baseline; }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
@@ -78,8 +80,9 @@
 /* #Basic Styles
 ================================================== */
 	body {
+		/*background: url(#{$image_folder}tile.jpg) repeat transparent;*/
 		background: $body-background;
-		font: 12px/18px "Lato", "Calibri";
+		/*font: 12px/18px "Lato", "Calibri";*/
 		color: $font-color;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -90,7 +93,7 @@
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
 		color: $header-color;
-		font-family: "Lato", "Calibri";
+		font-family: "Lato",sans-serif;
 		-moz-font-feature-settings: "liga=1, dlig=1";
     	-ms-font-feature-settings: "liga", "dlig";
     	-webkit-font-feature-settings: "liga", "dlig";
@@ -111,7 +114,7 @@
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
 	em { font-style: italic; }
-	strong { font-weight: bold; color: #333; }
+	strong { font-weight: bold; }
 	small { font-size: 80%; }
 
 /*	Blockquotes  */
@@ -126,8 +129,8 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { color: $link_old; text-decoration: underline; outline: 0; }
-	a:hover, a:focus { color: $link_hover_old; }
+	a, a:visited { color: $link; text-decoration: underline; outline: 0; font-family: "Lato",sans-serif;  }
+	a:hover, a:focus { color: $link_hover; }
 	p a, p a:visited { line-height: inherit; }
 
 

@@ -1,16 +1,32 @@
+/*Locations*/
+$image_folder: '../images/';
+$base-font-size: 12px;
+$base-line-height: 18px;
+
+/*Font*/
+
+
+/*Colors*/
 $body-background: #6aa265; 
-$dark-body-background: #0b1c01;
-$dark-green: #033301;
-$green: #6aa265;
-$light-green: #739e58;
-$blue: #34409c;
-$brown: #5c230d;
-$light-brown: #d85a29;
 $header-color: #fff;
 $font-color: #000;
 
+$green: #6aa265;
+$dark-green: darken($green, 12%); // #033301;
+$brown: #5c230d;
 
-$link_old: #ffd700;
-$link_hover_old: #9f8300;
-$link_active_old: #3c640f;
+$link: #ffd700;
+$link_hover: #9f8300;
+$link_active: #3c640f;
+
+
+
+/*Unused*/
+/*
+$dark-body-background: #0b1c01;
+$light-green: #739e58;
+$blue: #34409c;
+
+$light-brown: #d85a29;
 $silver: #30303a;
+*/

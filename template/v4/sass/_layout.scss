@@ -16,6 +16,73 @@
 
 /* #Site Styles
 ================================================== */
+body{
+	/*background: url(#{$image_folder}tile.jpg) repeat transparent;*/
+	background: $body-background;
+	font: 12px/18px "Lato";
+	color: $font-color;
+}
+
+header{
+
+	display: block;
+	overflow: hidden;
+	background-color: $dark-green;
+	margin-top:  20px;
+
+	.container{
+		background-color: $dark-green;
+		h1{
+			height: image-height('#{$image_folder}header.png');
+			/*background-position:0 5px;*/
+			background-image: url(#{$image_folder}header.png);
+		  	background-repeat: no-repeat;
+		  	/*@include textindent-width-dimension(image-width('#{$image_folder}kolben_logo_grunge.png'),image-height('#{$image_folder}kolben_logo_grunge.png'));*/
+		  	@include textindent;
+		}
+	}
+}
+
+
+footer{
+	display: block;
+	overflow: hidden;
+	background-color: $dark-green;
+
+	.container{
+		background-color: $dark-green;
+		.footnote{
+			margin: auto auto;
+			font-size: 100%;
+			text-align: center;
+		}
+	}
+}
+
+.container {
+	background-color: $green;
+	.one {@include leader(); }
+	.thetest{ @include adjust-font-size-to(24px); }
+}
+
+.sidebar{
+	display: block;
+	overflow: hidden;
+	width: 100%;
+	nav{
+		position: fixed;
+	}
+}
+
+.subheader { 
+	color: $dark-green; 
+	font-family: "Lato",sans-serif; 
+	font-size: 14px;
+/*	letter-spacing: 100%;*/
+	font-weight: bold;
+}
+
+
 
 /* #Page Styles
 ================================================== */
@@ -27,16 +94,49 @@
 	@media only screen and (max-width: 959px) {}
 
 	/* Tablet Portrait size to standard 960 (devices and browsers) */
-	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+		header .container h1{
+			height: image-height('#{$image_folder}kolben.png');
+			background-image: url(#{$image_folder}kolben.png);
+			background-position: 50% 50%;
+		}
+
+	}
 
 	/* All Mobile Sizes (devices and browser) */
-	@media only screen and (max-width: 767px) {}
+	@media only screen and (max-width: 767px) {
+
+		header .container h1{
+			height: image-height('#{$image_folder}kolben.png');
+			background-image: url(#{$image_folder}kolben.png);
+			background-position: 50% 50%;
+		}
+		
+		.sidebar{
+			border-bottom: 1px solid $dark-green;
+			margin: auto auto;
+
+			nav{
+				position: relative;
+
+				ul{
+					align: center;
+					li{
+						float: left;
+					}
+				}
+			}
+		}
+	
+	}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 	@media only screen and (min-width: 480px) and (max-width: 767px) {}
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {}
+
 
 
 /* #Font-Face

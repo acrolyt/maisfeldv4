@@ -1,0 +1,15 @@
+@mixin textindent-width-dimension($width,$height){
+	font: 0/0 a;
+	text-shadow: none;
+	color: transparent; 
+	height: $height;
+    width: $width;
+	display: block;
+}
+
+@mixin textindent{
+	font: 0/0 a;
+	text-shadow: none;
+	color: transparent; 
+	display: block;
+}
